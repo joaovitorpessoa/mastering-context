@@ -19,7 +19,7 @@ Esse projeto tem como objetivo demonstrar um caso de uso da Context API do React
 
 ## 💡 Resultado
 
-![""](/docs/screen-recording.gif)
+![""](/docs/gif/screen-recording.gif)
 
 ## 🏃 Uso
 
